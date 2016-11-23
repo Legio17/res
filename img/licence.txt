@@ -1,0 +1,2 @@
+scorebackground = https://www.pinterest.com/lamrett/board-board/
+paperbackground = https://openclipart.org/detail/234570/pinned-note
