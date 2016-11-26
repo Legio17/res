@@ -1,2 +1,5 @@
 scorebackground = https://www.pinterest.com/lamrett/board-board/
 paperbackground = https://openclipart.org/detail/234570/pinned-note
+fancyWood_background = https://wallpaperscraft.com/download/wood_background_texture_36573/1920x1080
+loginWindow = http://www.freebiesgallery.com/admin-login/
+font = http://www.1001fonts.com/arcadeclassic-font.html#character-map
