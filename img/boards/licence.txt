@@ -4,3 +4,4 @@ fancyWood_background = https://wallpaperscraft.com/download/wood_background_text
 loginWindow = http://www.freebiesgallery.com/admin-login/
 font = http://www.1001fonts.com/arcadeclassic-font.html#character-map
 wooden tiles= http://www.ebay.co.uk/itm/Wood-Effect-10x10-cm-Dark-Brown-Glazed-Textured-Ceramic-Wall-Tiles-/191590569214
+wooden planels http://homejobs-chandrasekar.blogspot.dk/2015/12/oak-wood-grain-texture.html
