@@ -1,0 +1,7 @@
+For hosting tic-tac-toe game press "5".
+For joining existing tic-tac-toe game press "6".
+You can see your personal statistics inside lobby 
+by pressing "E". 
+You can move around lobby area by pressing W,A,S,D
+keys or by pressing arrow keys.
+Help window can be also activated by pressing "H".
